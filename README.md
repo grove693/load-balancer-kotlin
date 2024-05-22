@@ -8,6 +8,9 @@ Load balancer application which also performs periodical health checks to dynami
 
 Inspired by the following code challenge: https://codingchallenges.fyi/challenges/challenge-load-balancer
 
+The *loadBalancer* folder contains the implementation of the load balancer in Kotlin.
+The *mockServers* folder contains dummy http servers written in python used for testing.
+
 
 
 Tech Stack
